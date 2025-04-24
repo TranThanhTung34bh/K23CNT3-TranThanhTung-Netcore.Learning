@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA54066-48C3-4823-AD0E-7EA6186C6820}|..\\lab001\\lab001.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\lab001\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA54066-48C3-4823-AD0E-7EA6186C6820}|..\\lab001\\lab001.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\lab001\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\lab001\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\lab001\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\lab001\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\lab001\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T03:56:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\lab001\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\lab001\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\lab001\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\lab001\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T03:54:10.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
