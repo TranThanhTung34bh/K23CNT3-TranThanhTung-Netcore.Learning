@@ -1,0 +1,11 @@
+﻿@model List<TttLap03.Models.Account>
+
+@foreach (var account in Model)
+{
+    <div>
+        <img src="~/images/@account.Image" width="200" />
+        <h3>@account.FullName</h3>
+        <p>@account.Bio</p>
+        <a href="/TttAccount/Profile" class="btn btn-success">Profile</a>
+    </div>
+}
