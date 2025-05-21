@@ -1,0 +1,34 @@
+﻿@using Ttt_Day5Model.Models.DataModels
+@model IEnumerable<TttMember>
+@{
+    ViewData["Title"] = "TttIndex";
+    Layout = "_TttLayout";
+}
+
+<h1>Danh sách member</h1>
+
+<table class="table table-striped table-hover">
+    <thead class="table-dark">
+
+        <tr>
+            <th>Member Id</th>
+            <th>Member UserName</th>
+            <th>Member Password</th>
+            <th>Member FullName</th>
+            <th>Member Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (TttMember tttItem in Model)
+        {
+            <tr>
+                <td>@tttItem.TttMemberId</td>
+                <td>@tttItem.TttUserName</td>
+                <td>@tttItem.TttPassword</td>
+                <td>@tttItem.TttFullName</td>
+                <td>@tttItem.TttEmail</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,17 @@
+﻿@model Ttt_lab04.Models.TttBook
+@{
+    ViewData["Title"] = "Chi tiết sách";
+}
+<h2>📖 Chi tiết sách</h2>
+<div class="card" style="width: 25rem;">
+    <img src="@Model.TttImage" class="card-img-top" />
+    <div class="card-body">
+        <h5 class="card-title">@Model.TttTitle</h5>
+        <p class="card-text">@Model.TttDescription</p>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Giá: <strong>@Model.TttPrice ₫</strong></li>
+            <li class="list-group-item">Trang: @Model.TttPage</li>
+        </ul>
+        <a asp-action="TttIndex" class="btn btn-primary mt-3">🔙 Quay lại</a>
+    </div>
+</div>

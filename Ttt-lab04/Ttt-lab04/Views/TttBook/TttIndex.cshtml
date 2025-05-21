@@ -21,7 +21,7 @@
                 <td>@TttItem.TttTitle</td>
                 <td>@TttItem.TttDescription</td>
                 <td>
-					<img src="@Url.Content("~/images/" + TttItem.TttImage)" alt="Book Image" style="width: 100px; height: 150px;" />
+                    <img src="@TttItem.TttImage" alt="Ảnh sách" class="img-thumbnail shadow-sm" style="height: 120px; width: auto; object-fit: contain;" />
                 </td>
                 <td>@TttItem.TttPrice</td>
 
@@ -29,6 +29,3 @@
         }
     </tbody>
 </table>
-
-<h1>TttIndex</h1>
-

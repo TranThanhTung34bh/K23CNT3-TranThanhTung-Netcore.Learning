@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36017.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ttt_Day5Model", "Ttt_Day5Model\Ttt_Day5Model.csproj", "{E01C99E7-E767-4F98-952E-590B54F16A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01C99E7-E767-4F98-952E-590B54F16A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01C99E7-E767-4F98-952E-590B54F16A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01C99E7-E767-4F98-952E-590B54F16A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01C99E7-E767-4F98-952E-590B54F16A13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C156EE71-8233-43B3-A182-14DFD2EB7D04}
+	EndGlobalSection
+EndGlobal

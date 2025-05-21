@@ -44,6 +44,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/netcore.learning/K23CNT3-TranThanhTung-Netcore.Learning/Ttt-lab04/Ttt-lab04/Views/TttBookcontroller/TttCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHR0Qm9va2NvbnRyb2xsZXJcVHR0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/netcore.learning/K23CNT3-TranThanhTung-Netcore.Learning/Ttt-lab04/Ttt-lab04/Views/TttBook/TttCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHR0Qm9va1xUdHRDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/netcore.learning/K23CNT3-TranThanhTung-Netcore.Learning/Ttt-lab04/Ttt-lab04/Views/TttBook/TttDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHR0Qm9va1xUdHREZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/netcore.learning/K23CNT3-TranThanhTung-Netcore.Learning/Ttt-lab04/Ttt-lab04/Views/TttBook/TttDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHR0Qm9va1xUdHREZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/netcore.learning/K23CNT3-TranThanhTung-Netcore.Learning/Ttt-lab04/Ttt-lab04/Views/TttBook/TttEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHR0Qm9va1xUdHRFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/netcore.learning/K23CNT3-TranThanhTung-Netcore.Learning/Ttt-lab04/Ttt-lab04/Views/TttBook/TttIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHR0Qm9va1xUdHRJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

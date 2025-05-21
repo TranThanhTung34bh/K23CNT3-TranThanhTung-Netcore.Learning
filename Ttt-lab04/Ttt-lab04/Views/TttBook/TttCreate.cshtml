@@ -1,0 +1,25 @@
+﻿@model TttBook
+
+@{
+    ViewData["Title"] = "Ttt Thêm mới sách";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="TttCreate" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="TttTitle" class="control-label"></label>
+        <input asp-for="TttTitle" class="form-control" />
+        <span asp-validation-for="TttTitle" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="TttPrice" class="control-label"></label>
+        <input asp-for="TttPrice" class="form-control" />
+        <span asp-validation-for="TttPrice" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

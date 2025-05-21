@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt-lab04\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AF733F70-7DE0-4A1D-BE37-E4E92B9E4BCD}|Ttt-lab04\\Ttt_lab04.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt-lab04\\ttt-lab04\\controllers\\tttbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF733F70-7DE0-4A1D-BE37-E4E92B9E4BCD}|Ttt-lab04\\Ttt_lab04.csproj|solutionrelative:ttt-lab04\\controllers\\tttbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF733F70-7DE0-4A1D-BE37-E4E92B9E4BCD}|Ttt-lab04\\Ttt_lab04.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt-lab04\\ttt-lab04\\views\\tttbook\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF733F70-7DE0-4A1D-BE37-E4E92B9E4BCD}|Ttt-lab04\\Ttt_lab04.csproj|solutionrelative:ttt-lab04\\views\\tttbook\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF733F70-7DE0-4A1D-BE37-E4E92B9E4BCD}|Ttt-lab04\\Ttt_lab04.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt-lab04\\ttt-lab04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF733F70-7DE0-4A1D-BE37-E4E92B9E4BCD}|Ttt-lab04\\Ttt_lab04.csproj|solutionrelative:ttt-lab04\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TttBookcontroller.cs",
-              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt-lab04\\Ttt-lab04\\Controllers\\TttBookcontroller.cs",
-              "RelativeDocumentMoniker": "Ttt-lab04\\Controllers\\TttBookcontroller.cs",
-              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt-lab04\\Ttt-lab04\\Controllers\\TttBookcontroller.cs",
-              "RelativeToolTip": "Ttt-lab04\\Controllers\\TttBookcontroller.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:27:47.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_header.cshtml",
-              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt-lab04\\Ttt-lab04\\Views\\Shared\\_header.cshtml",
-              "RelativeDocumentMoniker": "Ttt-lab04\\Views\\Shared\\_header.cshtml",
-              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt-lab04\\Ttt-lab04\\Views\\Shared\\_header.cshtml",
-              "RelativeToolTip": "Ttt-lab04\\Views\\Shared\\_header.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T08:19:35.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TttIndex.cshtml",
-              "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt-lab04\\Ttt-lab04\\Views\\TttBook\\TttIndex.cshtml",
-              "RelativeDocumentMoniker": "Ttt-lab04\\Views\\TttBook\\TttIndex.cshtml",
-              "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt-lab04\\Ttt-lab04\\Views\\TttBook\\TttIndex.cshtml",
-              "RelativeToolTip": "Ttt-lab04\\Views\\TttBook\\TttIndex.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T08:00:06.848Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

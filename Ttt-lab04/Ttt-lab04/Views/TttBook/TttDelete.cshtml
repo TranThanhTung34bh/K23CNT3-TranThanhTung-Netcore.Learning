@@ -1,0 +1,11 @@
+﻿@model Ttt_lab04.Models.TttBook
+@{
+    ViewData["Title"] = "Xoá sách";
+}
+<h2>⚠️ Xác nhận xoá</h2>
+<h4>Bạn có chắc chắn muốn xoá sách "<strong>@Model.TttTitle</strong>"?</h4>
+<form asp-action="TttDeleteConfirmed" method="post">
+    <input type="hidden" asp-for="TttId" />
+    <button type="submit" class="btn btn-danger">🗑️ Xoá</button>
+    <a asp-action="TttIndex" class="btn btn-secondary">❌ Huỷ</a>
+</form>

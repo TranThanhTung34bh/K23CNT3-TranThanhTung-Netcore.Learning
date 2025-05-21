@@ -1,0 +1,33 @@
+﻿@model Ttt_lab04.Models.TttBook
+@{
+    ViewData["Title"] = "Thêm sách";
+}
+<h2>📘 Thêm sách mới</h2>
+<form asp-action="TttCreate" method="post">
+    <div class="mb-3">
+        <label>ID</label>
+        <input asp-for="TttId" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Tiêu đề</label>
+        <input asp-for="TttTitle" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Mô tả</label>
+        <textarea asp-for="TttDescription" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label>URL ảnh</label>
+        <input asp-for="TttImage" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Giá</label>
+        <input asp-for="TttPrice" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Số trang</label>
+        <input asp-for="TttPage" class="form-control" />
+    </div>
+    <button class="btn btn-primary">💾 Lưu</button>
+    <a asp-action="TttIndex" class="btn btn-secondary">🔙 Quay lại</a>
+</form>

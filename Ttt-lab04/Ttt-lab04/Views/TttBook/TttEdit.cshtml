@@ -1,0 +1,38 @@
+﻿@model Ttt_lab04.Models.TttBook
+@{
+    ViewData["Title"] = "Sửa sách";
+}
+<h2>✏️ Sửa sách</h2>
+<form asp-action="TttEdit" method="post">
+    <input type="hidden" asp-for="TttId" />
+    <div class="mb-3">
+        <label>Tiêu đề</label>
+        <input asp-for="TttTitle" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Mô tả</label>
+        <textarea asp-for="TttDescription" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label>URL ảnh</label>
+        <input asp-for="TttImage" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Giá</label>
+        <input asp-for="TttPrice" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Số trang</label>
+        <input asp-for="TttPage" class="form-control" />
+    </div>
+    <button class="btn btn-primary">💾 Cập nhật</button>
+    <a asp-action="TttIndex" class="btn btn-secondary">🔙 Quay lại</a>
+</form>
+
+@{
+    ViewData["Title"] = "TttEdit";
+    Layout = "~/Views/TttBook/TttIndex.cshtml";
+}
+
+<h1>TttEdit</h1>
+
