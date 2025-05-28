@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ttt_Day5Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1945fb4064a518a8dd7405afe5f9a559240fcda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f218821eaa13e77409efa4452b89c61717aec250")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ttt_Day5Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ttt_Day5Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

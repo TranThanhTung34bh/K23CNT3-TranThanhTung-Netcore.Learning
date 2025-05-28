@@ -1,0 +1,42 @@
+﻿@model List<TttLab06.Models.TttEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a class="btn btn-primary mb-3" asp-action="TttCreate">Thêm nhân viên mới</a>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>SĐT</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.TttId</td>
+                <td>@emp.TttName</td>
+                <td>@emp.TttBirthDay.ToString("dd/MM/yyyy")</td>
+                <td>@emp.TttEmail</td>
+                <td>@emp.TttPhone</td>
+                <td>@emp.TttSalary.ToString("N0")</td>
+                <td>@(emp.TttStatus ? "Đang làm" : "Nghỉ")</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="TttEdit" asp-route-id="@emp.TttId">Sửa</a>
+                    <a class="btn btn-sm btn-danger" asp-action="TttDelete" asp-route-id="@emp.TttId">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
