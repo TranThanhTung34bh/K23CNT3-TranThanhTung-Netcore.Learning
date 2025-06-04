@@ -1,0 +1,18 @@
+﻿@model TttDay07.Models.TttEmployee
+
+@{
+    ViewData["Title"] = "Chi tiết nhân viên";
+}
+
+<h2>Thông tin chi tiết</h2>
+
+<table class="table">
+    <tr><th>ID:</th><td>@Model.TttEmployeeId</td></tr>
+    <tr><th>Họ tên:</th><td>@Model.TtttName</td></tr>
+    <tr><th>Email:</th><td>@Model.TttEmail</td></tr>
+    <tr><th>Ngày sinh:</th><td>@Model.TttBirtday.ToString("dd/MM/yyyy")</td></tr>
+    <tr><th>Lương:</th><td>@Model.TttSalary.ToString("N0")</td></tr>
+    <tr><th>Phòng ban:</th><td>@Model.TttDepartment</td></tr>
+</table>
+
+<a asp-action="TttIndex" class="btn btn-secondary">Quay lại</a>

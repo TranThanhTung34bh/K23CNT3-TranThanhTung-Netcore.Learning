@@ -1,0 +1,20 @@
+﻿@model TttDay07.Models.TttEmployee
+
+@{
+    ViewData["Title"] = "Xóa nhân viên";
+}
+
+<h2>Bạn có chắc chắn muốn xóa?</h2>
+
+<div>
+    <h4>@Model.TtttName</h4>
+    <p><strong>Email:</strong> @Model.TttEmail</p>
+    <p><strong>Phòng ban:</strong> @Model.TttDepartment</p>
+    <p><strong>Lương:</strong> @Model.TttSalary.ToString("N0")</p>
+
+    <form asp-action="TttDelete" method="post">
+        <input type="hidden" asp-for="TttEmployeeId" />
+        <button type="submit" class="btn btn-danger">Xoá</button>
+        <a asp-action="TttIndex" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

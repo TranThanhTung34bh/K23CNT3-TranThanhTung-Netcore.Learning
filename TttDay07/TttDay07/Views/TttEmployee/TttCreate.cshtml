@@ -1,0 +1,33 @@
+﻿@model TttDay07.Models.TttEmployee
+
+@{
+    ViewData["Title"] = "Thêm nhân viên";
+}
+
+<h2>Thêm nhân viên mới</h2>
+
+<form asp-action="TttCreate" method="post">
+    <div class="form-group">
+        <label>Họ tên</label>
+        <input asp-for="TtttName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="TttEmail" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ngày sinh</label>
+        <input asp-for="TttBirtday" class="form-control" type="date" />
+    </div>
+    <div class="form-group">
+        <label>Lương</label>
+        <input asp-for="TttSalary" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Phòng ban</label>
+        <input asp-for="TttDepartment" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-action="TttIndex" class="btn btn-secondary">Hủy</a>
+</form>

@@ -1,0 +1,43 @@
+﻿@model List<TttDay07.Models.TttEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<h2>Danh sách nhân viên</h2>
+
+<p>
+    <a class="btn btn-primary" asp-action="TttCreate">Thêm mới</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Họ tên</th>
+            <th>Email</th>
+            <th>Ngày sinh</th>
+            <th>Lương</th>
+            <th>Phòng ban</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.TttEmployeeId</td>
+                <td>@emp.TtttName</td>
+                <td>@emp.TttEmail</td>
+                <td>@emp.TttBirtday.ToString("dd/MM/yyyy")</td>
+                <td>@emp.TttSalary.ToString("N0")</td>
+                <td>@emp.TttDepartment</td>
+                <td>
+                    <a class="btn btn-info btn-sm" asp-action="TttDetails" asp-route-id="@emp.TttEmployeeId">Chi tiết</a>
+                    <a class="btn btn-warning btn-sm" asp-action="TttEdit" asp-route-id="@emp.TttEmployeeId">Sửa</a>
+                    <a class="btn btn-danger btn-sm" asp-action="TttDelete" asp-route-id="@emp.TttEmployeeId">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
