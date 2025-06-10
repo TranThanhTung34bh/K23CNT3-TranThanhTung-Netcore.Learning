@@ -1,0 +1,75 @@
+﻿@model TttDay8Amotation.Models.TttAccount
+
+@{
+    ViewData["Title"] = "TttCreate";
+}
+
+<h1>thêm mới</h1>
+
+<h4>TttAccount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="TttCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="TttId" class="control-label"></label>
+                <input asp-for="TttId" class="form-control" />
+                <span asp-validation-for="TttId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttFullName" class="control-label"></label>
+                <input asp-for="TttFullName" class="form-control" />
+                <span asp-validation-for="TttFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttEmail" class="control-label"></label>
+                <input asp-for="TttEmail" class="form-control" />
+                <span asp-validation-for="TttEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttPhone" class="control-label"></label>
+                <input asp-for="TttPhone" class="form-control" />
+                <span asp-validation-for="TttPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttAddress" class="control-label"></label>
+                <input asp-for="TttAddress" class="form-control" />
+                <span asp-validation-for="TttAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttAvatar" class="control-label"></label>
+                <input asp-for="TttAvatar" class="form-control" />
+                <span asp-validation-for="TttAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttGender" class="control-label"></label>
+                <input asp-for="TttGender" class="form-control" />
+                <span asp-validation-for="TttGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttPassword" class="control-label"></label>
+                <input asp-for="TttPassword" class="form-control" />
+                <span asp-validation-for="TttPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttFacebook" class="control-label"></label>
+                <input asp-for="TttFacebook" class="form-control" />
+                <span asp-validation-for="TttFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TttBirthday" class="control-label"></label>
+                <input asp-for="TttBirthday" class="form-control" />
+                <span asp-validation-for="TttBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="TttCreate" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="TttIndex">Back to List</a>
+</div>
+

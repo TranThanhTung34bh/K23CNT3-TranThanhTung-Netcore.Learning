@@ -1,0 +1,78 @@
+﻿@model TttDay8Amotation.Models.TttAccount
+
+@{
+    ViewData["Title"] = "TttDetail";
+}
+
+<h1>TttDetails</h1>
+
+<div>
+    <h4>TttAccount</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttFullName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttFullName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttPhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttAddress)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttAddress)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttAvatar)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttAvatar)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttGender)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttPassword)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttPassword)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttFacebook)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttFacebook)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TttBirthday)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TttBirthday)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("TttEdit", "TttEdit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="TttIndex">Back to List</a>
+</div>

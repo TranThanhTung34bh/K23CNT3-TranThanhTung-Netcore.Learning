@@ -1,0 +1,60 @@
+﻿@model List<TttDay8Amotation.Models.TttAccount>
+
+@{
+    ViewData["Title"] = "Danh sách tài khoản";
+}
+
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="mb-0">📋 Danh sách tài khoản</h2>
+        <a class="btn btn-success" asp-action="TttCreate">➕ Thêm mới</a>
+    </div>
+
+    <table class="table table-bordered table-hover text-center align-middle shadow-sm">
+        <thead class="table-primary">
+            <tr>
+                <th>ID</th>
+                <th>Họ tên</th>
+                <th>Email</th>
+                <th>Điện thoại</th>
+                <th>Địa chỉ</th>
+                <th>Ảnh đại diện</th>
+                <th>Giới tính</th>
+                <th>Facebook</th>
+                <th>Ngày sinh</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.TttId</td>
+                    <td>@item.TttFullName</td>
+                    <td>
+                        <a href="mailto:@item.TttEmail">@item.TttEmail</a>
+                    </td>
+                    <td>@item.TttPhone</td>
+                    <td>@item.TttAddress</td>
+                    <td>
+                        <img src="@item.TttAvatar" alt="avatar" width="60" height="60" class="rounded-circle border shadow-sm" style="object-fit: cover;" />
+                    </td>
+                    <td>@item.TttGender</td>
+                    <td>
+                        <a href="@item.TttFacebook" target="_blank" class="btn btn-sm btn-outline-primary">
+                            <i class="bi bi-facebook"></i> Facebook
+                        </a>
+                    </td>
+                    <td>@item.TttBirthday.ToShortDateString()</td>
+                    <td>
+                        <div class="d-grid gap-1">
+                            <a class="btn btn-info btn-sm" asp-action="TttDetails" asp-route-id="@item.TttId">Chi tiết</a>
+                            <a class="btn btn-warning btn-sm" asp-action="TttEdit" asp-route-id="@item.TttId">Sửa</a>
+                            <a class="btn btn-danger btn-sm" asp-action="TttDelete" asp-route-id="@item.TttId">Xoá</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
