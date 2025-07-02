@@ -1,0 +1,57 @@
+﻿@model TranThanhTung_2310900115.Models.TttEmployee
+
+@{
+    ViewData["Title"] = "thêm mới";
+}
+
+<h1>Create</h1>
+
+<h4>TttEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="TttCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="TttEmpId" class="control-label"></label>
+                <input asp-for="TttEmpId" class="form-control" />
+                <span asp-validation-for="TttEmpId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TttEmpName" class="control-label"></label>
+                <input asp-for="TttEmpName" class="form-control" />
+                <span asp-validation-for="TttEmpName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TttEmpLevel" class="control-label"></label>
+                <input asp-for="TttEmpLevel" class="form-control" />
+                <span asp-validation-for="TttEmpLevel" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TttEmpStartDate" class="control-label"></label>
+                <input asp-for="TttEmpStartDate" class="form-control" />
+                <span asp-validation-for="TttEmpStartDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TttEmpStatus" class="control-label"></label>
+                <input asp-for="TttEmpStatus" class="form-control" />
+                <span asp-validation-for="TttEmpStatus" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+
+                <input type="submit" value="Thêm mới" class="btn btn-primary" />
+                <a asp-action="TttIndex" class="btn btn-secondary ms-2">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

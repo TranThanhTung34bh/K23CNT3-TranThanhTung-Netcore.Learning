@@ -1,0 +1,48 @@
+﻿@model TranThanhTung_2310900115.Models.TttEmployee
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-danger">Xác nhận xóa</h1>
+
+<h4>TttEmployee</h4>
+<hr />
+<dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TttEmpName)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.TttEmpName)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TttEmpLevel)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.TttEmpLevel)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TttEmpStartDate)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.TttEmpStartDate)
+    </dd>
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TttEmpStatus)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.TttEmpStatus)
+    </dd>
+</dl>
+
+<form asp-action="TttDelete">
+    <input type="hidden" asp-for="TttEmpId" />
+    <div class="d-flex gap-2">
+        <button type="submit" class="btn btn-danger">
+            <i class="bi bi-trash-fill"></i> Xóa
+        </button>
+        <a asp-action="TttIndex" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Quay lại
+        </a>
+    </div>
+</form>

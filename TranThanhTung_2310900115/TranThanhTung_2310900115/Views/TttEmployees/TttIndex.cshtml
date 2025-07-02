@@ -1,0 +1,54 @@
+﻿@model IEnumerable<TranThanhTung_2310900115.Models.TttEmployee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-4">
+    <h1 class="text-primary mb-3">Danh sách nhân viên</h1>
+
+    <p>
+        <a asp-action="TttCreate" class="btn btn-success">+ Thêm mới</a>
+    </p>
+
+    <table class="table table-bordered table-striped shadow-sm">
+        <thead class="table-dark text-center">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TttEmpName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TttEmpLevel)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TttEmpStartDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TttEmpStatus)
+                </th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.TttEmpName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TttEmpLevel)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TttEmpStartDate)</td>
+                    <td>
+                        <span class="badge @(item.TttEmpStatus.HasValue && item.TttEmpStatus.Value ? "bg-success" : "bg-secondary")">
+                            @(item.TttEmpStatus.HasValue && item.TttEmpStatus.Value ? "Đang làm" : "Nghỉ")
+                        </span>
+                    </td>
+
+                    <td class="text-nowrap">
+                        <a asp-action="TttEdit" asp-route-id="@item.TttEmpId" class="btn btn-sm btn-warning">Sửa</a>
+                        <a asp-action="TttDetails" asp-route-id="@item.TttEmpId" class="btn btn-sm btn-info text-white">Chi tiết</a>
+                        <a asp-action="TttDelete" asp-route-id="@item.TttEmpId" class="btn btn-sm btn-danger">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
