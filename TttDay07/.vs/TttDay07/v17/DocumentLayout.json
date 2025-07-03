@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\controllers\\ttthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\controllers\\ttthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\controllers\\tttemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\controllers\\tttemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\ttthome\\tttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\ttthome\\tttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\ttthome\\tttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\ttthome\\tttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\models\\tttemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\shared\\_tttnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\shared\\_tttnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\controllers\\ttthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\controllers\\ttthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\shared\\_tttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TttDetails.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttDetails.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttDetails.cshtml",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "TttDay07\\Views\\TttEmployee\\TttDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T03:10:26.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T03:10:26.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TttDelete.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttDelete.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttDelete.cshtml",
@@ -109,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TttCreate.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttCreate.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttCreate.cshtml",
@@ -117,12 +116,11 @@
               "RelativeToolTip": "TttDay07\\Views\\TttEmployee\\TttCreate.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T02:40:56.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T02:40:56.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "TttIndex.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttIndex.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttIndex.cshtml",
@@ -130,8 +128,7 @@
               "RelativeToolTip": "TttDay07\\Views\\TttEmployee\\TttIndex.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T02:31:50.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T02:31:50.778Z"
             },
             {
               "$type": "Document",
@@ -141,14 +138,14 @@
               "RelativeDocumentMoniker": "TttDay07\\Controllers\\TttEmployeeController.cs",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Controllers\\TttEmployeeController.cs",
               "RelativeToolTip": "TttDay07\\Controllers\\TttEmployeeController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAwJsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T02:16:05.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "TttEmployee.cs",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Models\\TttEmployee.cs",
               "RelativeDocumentMoniker": "TttDay07\\Models\\TttEmployee.cs",
@@ -156,25 +153,24 @@
               "RelativeToolTip": "TttDay07\\Models\\TttEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:11:25.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T02:11:25.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "TttAbout.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttHome\\TttAbout.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttHome\\TttAbout.cshtml",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttHome\\TttAbout.cshtml",
               "RelativeToolTip": "TttDay07\\Views\\TttHome\\TttAbout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T02:03:26.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "TttIndex.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttHome\\TttIndex.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttHome\\TttIndex.cshtml",
@@ -195,18 +191,17 @@
               "RelativeToolTip": "TttDay07\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T01:58:49.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:58:49.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "TttHomeController.cs",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Controllers\\TttHomeController.cs",
               "RelativeDocumentMoniker": "TttDay07\\Controllers\\TttHomeController.cs",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Controllers\\TttHomeController.cs",
               "RelativeToolTip": "TttDay07\\Controllers\\TttHomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T01:58:00.339Z",
               "EditorCaption": ""
@@ -221,12 +216,11 @@
               "RelativeToolTip": "TttDay07\\Views\\Shared\\_TttLayout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T01:56:38.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:56:38.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_TttNavBar.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\Shared\\_TttNavBar.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\Shared\\_TttNavBar.cshtml",
@@ -234,8 +228,7 @@
               "RelativeToolTip": "TttDay07\\Views\\Shared\\_TttNavBar.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T01:56:15.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:56:15.332Z"
             },
             {
               "$type": "Document",
@@ -247,8 +240,7 @@
               "RelativeToolTip": "TttDay07\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T01:55:30.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:55:30.264Z"
             }
           ]
         }

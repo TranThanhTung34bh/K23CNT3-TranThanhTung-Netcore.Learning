@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\controllers\\tttemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\controllers\\tttemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\tttemployee\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|solutionrelative:tttday07\\views\\tttemployee\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BCB9FEF-4D28-4745-B7D2-B56A7EE1F1C7}|TttDay07\\TttDay07.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\tttday07\\tttday07\\views\\ttthome\\tttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TttDetails.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttDetails.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttDetails.cshtml",
@@ -83,20 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TttDelete.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttDelete.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttDelete.cshtml",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttDelete.cshtml",
               "RelativeToolTip": "TttDay07\\Views\\TttEmployee\\TttDelete.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T03:09:26.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TttEdit.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttEdit.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttEdit.cshtml",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TttCreate.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttCreate.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttCreate.cshtml",
@@ -122,26 +122,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "TttIndex.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttIndex.cshtml",
               "RelativeDocumentMoniker": "TttDay07\\Views\\TttEmployee\\TttIndex.cshtml",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Views\\TttEmployee\\TttIndex.cshtml",
               "RelativeToolTip": "TttDay07\\Views\\TttEmployee\\TttIndex.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-04T02:31:50.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TttEmployeeController.cs",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Controllers\\TttEmployeeController.cs",
               "RelativeDocumentMoniker": "TttDay07\\Controllers\\TttEmployeeController.cs",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\TttDay07\\TttDay07\\Controllers\\TttEmployeeController.cs",
               "RelativeToolTip": "TttDay07\\Controllers\\TttEmployeeController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAcwJ4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAwJsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T02:16:05.864Z",
               "EditorCaption": ""

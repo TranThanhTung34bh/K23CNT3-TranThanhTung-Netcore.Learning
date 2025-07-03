@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\controllers\\tttmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\controllers\\tttmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\controllers\\ttthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\controllers\\ttthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\models\\datamodels\\tttmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\views\\ttthome\\tttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\views\\ttthome\\tttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\controllers\\tttmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\controllers\\tttmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\views\\tttmember\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\views\\tttmember\\tttgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\views\\tttmember\\tttgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|solutionrelative:ttt_day5model\\views\\ttthome\\tttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E01C99E7-E767-4F98-952E-590B54F16A13}|Ttt_Day5Model\\Ttt_Day5Model.csproj|e:\\netcore.learning\\k23cnt3-tranthanhtung-netcore.learning\\ttt_day5model\\ttt_day5model\\views\\shared\\_tttlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TttMember.cs",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Models\\DataModels\\TttMember.cs",
               "RelativeDocumentMoniker": "Ttt_Day5Model\\Models\\DataModels\\TttMember.cs",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Models\\DataModels\\TttMember.cs",
               "RelativeToolTip": "Ttt_Day5Model\\Models\\DataModels\\TttMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T02:08:40.412Z",
               "EditorCaption": ""
@@ -87,17 +87,18 @@
               "RelativeToolTip": "Ttt_Day5Model\\Views\\TttHome\\TttAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T07:21:53.287Z"
+              "WhenOpened": "2025-05-21T07:21:53.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TttHomeController.cs",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Controllers\\TttHomeController.cs",
               "RelativeDocumentMoniker": "Ttt_Day5Model\\Controllers\\TttHomeController.cs",
               "ToolTip": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Controllers\\TttHomeController.cs",
               "RelativeToolTip": "Ttt_Day5Model\\Controllers\\TttHomeController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T07:14:13.258Z",
               "EditorCaption": ""
@@ -116,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "TttIndex.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Views\\TttHome\\TttIndex.cshtml",
               "RelativeDocumentMoniker": "Ttt_Day5Model\\Views\\TttHome\\TttIndex.cshtml",
@@ -124,7 +125,8 @@
               "RelativeToolTip": "Ttt_Day5Model\\Views\\TttHome\\TttIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T07:09:04.175Z"
+              "WhenOpened": "2025-05-21T07:09:04.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TttIndex.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Views\\TttMember\\TttIndex.cshtml",
               "RelativeDocumentMoniker": "Ttt_Day5Model\\Views\\TttMember\\TttIndex.cshtml",
@@ -152,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TttGetMember.cshtml",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Views\\TttMember\\TttGetMember.cshtml",
               "RelativeDocumentMoniker": "Ttt_Day5Model\\Views\\TttMember\\TttGetMember.cshtml",
@@ -164,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TttMemberController.cs",
               "DocumentMoniker": "E:\\netcore.learning\\K23CNT3-TranThanhTung-Netcore.Learning\\Ttt_Day5Model\\Ttt_Day5Model\\Controllers\\TttMemberController.cs",
               "RelativeDocumentMoniker": "Ttt_Day5Model\\Controllers\\TttMemberController.cs",
